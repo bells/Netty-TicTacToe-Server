@@ -44,7 +44,7 @@ import com.tictactoe.server.message.TurnMessageBean;
 
 /**
  * Handles a server-side channel for a multiplayer game of Tic Tac Toe.
- * 
+ *  
  * @author Kevin Webber
  * 
  */
